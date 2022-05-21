@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding,travling.
 - 🌱 I’m currently learning leetcode.
 - 💞️ I’m looking to collaborate on java.
-- 📫 How to reach me : https://blog.ruoan.xyz/
+- 📫 How to reach me : https://blog.ruoan777.xyz/
 
 <!---
 ruoan777/ruoan777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
