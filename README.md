@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 #### Github Stats
 <details open>
   <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=ruoan777&show_icons=true&theme=buefy"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ruoan777&count_private=true&show_icons=true&theme=onedark"/>
 </details>
